@@ -1,0 +1,5 @@
+NewPortal/myvenv/
+NewPortal/venv/
+
+# Ignore all venv folders in the repository
+**/venv/
